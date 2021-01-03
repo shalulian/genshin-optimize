@@ -1,0 +1,16 @@
+{
+  "name": "testNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "shalulian <book661@gmail.com>",
+  "license": "MIT",
+
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
